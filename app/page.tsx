@@ -1,7 +1,9 @@
+import SimpleChat from "@/simple-chat/simpleChat";
+
 const Home = () => {
   return (
     <div>
-      <p className="font-bold">Hello</p>
+     <SimpleChat />
     </div>
   )
 }
