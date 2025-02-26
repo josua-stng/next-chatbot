@@ -1,11 +1,5 @@
-import SimpleChat from "@/simple-chat/simpleChat";
+const App = () => {
+  return <></>;
+};
 
-const Home = () => {
-  return (
-    <div>
-     <SimpleChat />
-    </div>
-  )
-}
-
-export default Home;
+export default App;
